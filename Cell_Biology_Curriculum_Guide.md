@@ -8,9 +8,33 @@
 
 ---
 
-**CURRICULUM GUIDE NOTES:**
+## CURRICULUM GUIDE INFORMATION
 
-- **Total Recitation Days:** 50 days (approximately 2.5 weeks per topic for a typical semester)
+**Lecture Schedule:** June 22 - September 4 (Monday-Friday)
+
+**Total Instructional Days:** Approximately 60 working days (excluding weekends)
+
+**Total Recitation Days Allocated:** 50 days
+
+| Topic | Recitation Days | Percentage of Curriculum |
+|---|---|---|
+| The Cell | 8 | 16% |
+| The Cell Cycle | 10 | 20% |
+| Transport Mechanisms | 9 | 18% |
+| Cell Requirements and Photosynthesis | 11 | 22% |
+| Cellular Respiration | 12 | 24% |
+| **TOTAL** | **50** | **100%** |
+
+**Buffer Days:** 10 days for assessments, reviews, and remediation
+
+---
+
+## CURRICULUM GUIDE NOTES
+
+- **Instructional Period:** June 22 - September 4, 2024 (Monday-Friday only)
+- **Total Working Days:** ~60 days
+- **Allocated Teaching Days:** 50 days
+- **Assessment & Review Days:** 10 days
 - **Performance Tasks:** Two major investigative projects (Diffusion and Photosynthesis)
 - **Assessment Balance:** Mix of formative (check for understanding) and summative (mastery verification)
 - **Instructional Modality:** Hybrid approach combining synchronous and asynchronous activities for flexible learning
